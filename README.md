@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Hello! My name is Wang Zhixin, and I'm from Beijing, China. Welcome to my GitHub.
 <!--
 **WZXCoder/WZXCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
